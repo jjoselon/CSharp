@@ -1,0 +1,10 @@
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\bin\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.deps.json
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\bin\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.runtimeconfig.json
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\bin\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.runtimeconfig.dev.json
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\bin\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.dll
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\bin\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.pdb
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\obj\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\obj\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\obj\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.AssemblyInfo.cs
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\obj\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.dll
+C:\Users\jjose\Documents\RESTClient\SerializerAndUnserializerXMLData\obj\Debug\netcoreapp2.2\SerializerAndUnserializerXMLData.pdb
