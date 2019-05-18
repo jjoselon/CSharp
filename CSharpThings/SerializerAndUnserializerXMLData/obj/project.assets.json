@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jjose\\Documents\\RESTClient\\SerializerAndUnserializerXMLData\\SerializerAndUnserializerXMLData.csproj",
+      "projectUniqueName": "C:\\Users\\jjose\\Documents\\charpthings\\CSharp\\CSharpThings\\SerializerAndUnserializerXMLData\\SerializerAndUnserializerXMLData.csproj",
       "projectName": "SerializerAndUnserializerXMLData",
-      "projectPath": "C:\\Users\\jjose\\Documents\\RESTClient\\SerializerAndUnserializerXMLData\\SerializerAndUnserializerXMLData.csproj",
+      "projectPath": "C:\\Users\\jjose\\Documents\\charpthings\\CSharp\\CSharpThings\\SerializerAndUnserializerXMLData\\SerializerAndUnserializerXMLData.csproj",
       "packagesPath": "C:\\Users\\jjose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jjose\\Documents\\RESTClient\\SerializerAndUnserializerXMLData\\obj\\",
+      "outputPath": "C:\\Users\\jjose\\Documents\\charpthings\\CSharp\\CSharpThings\\SerializerAndUnserializerXMLData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

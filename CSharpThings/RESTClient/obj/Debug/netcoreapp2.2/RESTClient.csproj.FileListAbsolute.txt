@@ -9,3 +9,14 @@ C:\Users\jjose\Documents\RESTClient\RESTClient\obj\Debug\netcoreapp2.2\RESTClien
 C:\Users\jjose\Documents\RESTClient\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.AssemblyInfo.cs
 C:\Users\jjose\Documents\RESTClient\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.dll
 C:\Users\jjose\Documents\RESTClient\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.pdb
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\bin\Debug\netcoreapp2.2\RESTClient.deps.json
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\bin\Debug\netcoreapp2.2\RESTClient.runtimeconfig.json
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\bin\Debug\netcoreapp2.2\RESTClient.runtimeconfig.dev.json
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\bin\Debug\netcoreapp2.2\RESTClient.dll
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\bin\Debug\netcoreapp2.2\RESTClient.pdb
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.csprojAssemblyReference.cache
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.AssemblyInfo.cs
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.dll
+C:\Users\jjose\Documents\charpthings\CSharp\CSharpThings\RESTClient\obj\Debug\netcoreapp2.2\RESTClient.pdb

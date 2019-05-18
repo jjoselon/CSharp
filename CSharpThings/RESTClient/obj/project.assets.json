@@ -3340,11 +3340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jjose\\Documents\\RESTClient\\RESTClient\\RESTClient.csproj",
+      "projectUniqueName": "C:\\Users\\jjose\\Documents\\charpthings\\CSharp\\CSharpThings\\RESTClient\\RESTClient.csproj",
       "projectName": "RESTClient",
-      "projectPath": "C:\\Users\\jjose\\Documents\\RESTClient\\RESTClient\\RESTClient.csproj",
+      "projectPath": "C:\\Users\\jjose\\Documents\\charpthings\\CSharp\\CSharpThings\\RESTClient\\RESTClient.csproj",
       "packagesPath": "C:\\Users\\jjose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jjose\\Documents\\RESTClient\\RESTClient\\obj\\",
+      "outputPath": "C:\\Users\\jjose\\Documents\\charpthings\\CSharp\\CSharpThings\\RESTClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
