@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerializerAndUnserializerXM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkWithSqlite", "EntityFrameworkWithSqlServer\EntityFrameworkWithSqlite.csproj", "{B869C330-5D9F-478B-9A89-6B9725CDFF1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{F5FA6E83-EA74-4C20-A182-F09A3B790026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{F5FA6E83-EA74-4C20-A182-F09A3B790026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{CE009049-28E2-40B9-B94D-4D656A1FE990}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F5FA6E83-EA74-4C20-A182-F09A3B790026}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5FA6E83-EA74-4C20-A182-F09A3B790026}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5FA6E83-EA74-4C20-A182-F09A3B790026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE009049-28E2-40B9-B94D-4D656A1FE990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE009049-28E2-40B9-B94D-4D656A1FE990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE009049-28E2-40B9-B94D-4D656A1FE990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE009049-28E2-40B9-B94D-4D656A1FE990}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
